@@ -1,0 +1,17 @@
+tensorflow==2.15.0
+tensorflow-quantum
+torch
+pytorch-lightning
+mlflow
+pandas
+numpy
+matplotlib
+scikit-learn
+jax
+jaxlib
+pennylane
+optax
+sympy
+gwpy
+joblib
+tqdm
