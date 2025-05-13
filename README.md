@@ -81,7 +81,7 @@ Choose one of the quantum processing methods:
 
 ## 📊 Results and Visualization
 
-After running the pipeline, you can visualize results using:
+You can visualize the reconstruction from the autoencoder by running:
 
 ```bash
 python src/visualize_results.py
