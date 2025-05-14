@@ -4,7 +4,7 @@
 
 This repository implements a two-level feature extraction method for gravitational wave (GW) signal classification, combining classical convolutional autoencoders with Projected Quantum Kernel (PQK) techniques. The primary focus is to evaluate the applicability of quantum computing methods for binary black hole (BBH) merger detection.
 
-This project was developed during an internship at the University of Warsaw in collaboration with AstroCeNT – Particle Astrophysics Science and Technology Centre.
+This project was developed during an internship at the [University of Warsaw](https://www.uw.edu.pl/) in collaboration with [AstroCeNT – Particle Astrophysics Science and Technology Centre](https://astrocent.camk.edu.pl/).
 
 ### Why This Matters
 
